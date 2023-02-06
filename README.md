@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GttMone
+- 👋 Hi, I’m Vito
 - 👀 I’m interested in web developing and everything that includes Node.js. Also I like to code on Skript in minecraft
-- 🌱 I’m currently learning Discord.js v13
-- 💞️ I’m collaborating with AnimationWorld: https://discord.gg/JWGnJp3v4k
-- 📫 Reach me on Discord via the AnimationWorld server then DM me GttMone#2248 :) (I don't accept friend requests).
+- 🌱 I’m currently developing FiveM/RedM scripts
+- 💞️ I’m collaborating with FameOrShame Roleplay: https://discord.gg/fameorshame
+- 📫 Reach me on Discord via the FameOrShame server then DM me: VIT0#7704
 
 <!---
 GttMone/GttMone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
