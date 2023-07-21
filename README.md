@@ -4,6 +4,7 @@
 - 💞️ I’m collaborating with nobody currently. Contact me for collabs!
 - 📫 Reach me on Discord: @.vitoo. or by joining my [server](https://www.discord.gg/KZngCUaPhJ) and DM-ing me.
 - 🌐 Check out my [portfolio](https://gttmone.vercel.app/) for more info.
+- 🤝 Support me with a [coffee](https://ko-fi.com/vito_gos)
 
 <!---
 GttMone/GttMone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
